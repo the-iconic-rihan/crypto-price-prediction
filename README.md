@@ -30,9 +30,9 @@ git clone https://github.com/your-username/crypto-price-prediction.git
 
 - Alternatively, you can download the code as a ZIP file by clicking on the "Code" button on the repository page and selecting "Download ZIP".
 
-### Step 2: Create and activate a virtual environment (optional, but not recomendend for windows users)
+### Step 2: Create and activate a virtual environment (optional, but simple python virtual env is not recomendend for windows users)
 
-It is recommended to create a virtual environment to keep the project dependencies isolated. Open your terminal or command prompt, navigate to the project directory, and run the following commands:
+It is recommended to create a conda virtual environment to keep the project dependencies isolated. Open your anaconda terminal or command prompt, navigate to the project directory, and run the following commands:
 
 use conda virtual env for easy installtion. for below steps : 
 
