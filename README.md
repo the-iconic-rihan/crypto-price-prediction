@@ -30,11 +30,13 @@ git clone https://github.com/your-username/crypto-price-prediction.git
 
 - Alternatively, you can download the code as a ZIP file by clicking on the "Code" button on the repository page and selecting "Download ZIP".
 
-### Step 2: Create and activate a virtual environment (optional, recommended)
+### Step 2: Create and activate a virtual environment (optional, but not recomendend for windows users)
 
 It is recommended to create a virtual environment to keep the project dependencies isolated. Open your terminal or command prompt, navigate to the project directory, and run the following commands:
 
-```# Create a virtual environment (optional)
+use conda virtual env for easy installtion. for below steps : 
+
+```#
 python -m venv myenv
 
 # Activate the virtual environment
@@ -43,6 +45,12 @@ myenv\Scripts\activate
 
 # For macOS/Linux
 source myenv/bin/activate
+
+# you need to downlaod the Anaconda if not downlaoded.
+
+conda create --name your_env_name python=3.8
+conda activate your_env_name
+
 ```
 
 ### Step 3: Install the dependencies
@@ -124,11 +132,9 @@ This project is licensed under the MIT License.
 ```
 Please note that the instructions provided above are general guidelines, and you may need to adapt them based on your specific setup and requirements.
 ```
-# Output 
+
+# Output
+
 ![Crypto Price Prediction App2_pages-to-jpg-0001](https://github.com/the-iconic-rihan/crypto-price-prediction/assets/68491627/d318d310-c2ae-4407-b090-e90b410327ec)
 ![Crypto Price Prediction App2_pages-to-jpg-0002](https://github.com/the-iconic-rihan/crypto-price-prediction/assets/68491627/1dfbbcac-b80a-4fd5-8ce1-cb07e55685d6)
 ![Crypto Price Prediction App2_pages-to-jpg-0003](https://github.com/the-iconic-rihan/crypto-price-prediction/assets/68491627/249815d4-5a7a-4ab9-ae48-3a58a240456d)
-
-
-
-
