@@ -107,9 +107,9 @@ This will start the application locally, and you can access it by opening the pr
 pip install yfinance
 ```
 
-# ModuleNotFoundError: No module named 'fbprophet'
+# ModuleNotFoundError: No module named 'prophet'
 
-- If you face this error, it means the fbprophet library is missing. Follow the instructions below to install it:
+- If you face this error, it means the prophet library is missing. Follow the instructions below to install it:
 
 ### For Windows users:
 
@@ -117,7 +117,7 @@ pip install yfinance
 <li>
 Install Microsoft Visual C++ Build Tools from this link: <br>https://visualstudio.microsoft.com/visual-cpp-build-tools/.</li>
 <li>Restart your computer.</li>
-<li>Retry the installation of fbprophet using the command: pip install fbprophet.</li></ul>
+<li>Retry the installation of prophet using the command: pip install prophet.</li></ul>
 
 - For macOS and Linux users, please refer to the official documentation of fbprophet for installation instructions specific to your operating system.
 
